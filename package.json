@@ -1,0 +1,7 @@
+{
+  "name": "etc-services",
+  "version": "0.0.0",
+  "description": "Parse `/etc/services` and export a mapping of protocols to ports",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "license": "MIT"
+}
